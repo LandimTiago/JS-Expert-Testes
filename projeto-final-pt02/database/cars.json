@@ -1,0 +1,23 @@
+[
+  {
+    "id": "b7445400-0189-4aed-890b-7b8e647d7cc7",
+    "name": "1",
+    "releaseYear": 2022,
+    "avaliable": true,
+    "gasAvaliable": true
+  },
+  {
+    "id": "0e8866e9-0454-4811-9601-bcc60fc59b91",
+    "name": "CX-9",
+    "releaseYear": 2022,
+    "avaliable": true,
+    "gasAvaliable": true
+  },
+  {
+    "id": "37529643-9489-4ba6-a5c7-e583eb542ba3",
+    "name": "Sentra",
+    "releaseYear": 2021,
+    "avaliable": true,
+    "gasAvaliable": true
+  }
+]

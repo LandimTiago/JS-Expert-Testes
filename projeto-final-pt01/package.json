@@ -1,0 +1,20 @@
+{
+  "name": "projeto-final-pt01",
+  "version": "1.0.0",
+  "description": "## Use Case 01",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node ./seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/faker": "^6.6.9",
+    "faker": "^5.1.0"
+  }
+}

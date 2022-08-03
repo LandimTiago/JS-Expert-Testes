@@ -1,0 +1,25 @@
+{
+  "name": "projeto-final-pt01",
+  "version": "2.0.0",
+  "description": "## Use Case 01",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx mocha -w --parallel **/**/*.test.js",
+    "test:cov": "npx nyc npx mocha --parallel **/**/*.test.js",
+    "seed": "node ./seed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/faker": "^6.6.9",
+    "chai": "^4.3.6",
+    "faker": "^5.1.0",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "sinon": "^9.2.4"
+  }
+}
